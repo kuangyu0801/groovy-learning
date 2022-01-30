@@ -16,3 +16,17 @@ From Java to Groovy
 # 22-keyword
 - groovy add keywords on top of existing java
     + however: "true", "false", "null" are literals
+
+# 24-assertion
+- need to set by line "assert true"
+
+# 25-script
+- script are still transformed in to a java class
+
+# 26-class
+- convention: filename is the same as class name (but not required, opposite to Java)
+```
+Developer d = new Developer();
+d.setLastname("Dan")
+d.lastname = "Dan // 等效, 也是call setter
+```
