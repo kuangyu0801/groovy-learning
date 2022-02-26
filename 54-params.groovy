@@ -1,4 +1,4 @@
-// implicit parameter
+// "it" is implicit parameter
 def foo = {
     println it
 }

@@ -1,3 +1,5 @@
+// http://docs.groovy-lang.org/latest/html/groovy-jdk/java/util/Map.html
+
 def map = [:]
 println map
 println map.class
