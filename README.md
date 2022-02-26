@@ -30,3 +30,9 @@ Developer d = new Developer();
 d.setLastname("Dan")
 d.lastname = "Dan // 等效, 也是call setter
 ```
+# Sec-6 Closure
+- Reference https://groovy-lang.org/closures.html
+[53-closure.groovy](/53-closure.groovy)
+[54-params.groovy](/54-params.groovy)
+[55-collections.groovy](/55-collections.groovy)
+[56-curry-methods.groovy](/56-curry-methods.groovy)
